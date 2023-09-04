@@ -1,5 +1,6 @@
-title: [Luca Anna Palasti]
-description: [A portfolio website based on Earth Lab Bootcamp 2023 Fall]
+title: Luca Anna Palasti
+description: A portfolio website based on Earth Lab Bootcamp 2023 Fall
+logo: img/IMG_7875.jpeg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
